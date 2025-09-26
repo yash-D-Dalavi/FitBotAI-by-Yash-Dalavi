@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176905820115",
+    "project_id": "fitbotaid",
+    "storage_bucket": "fitbotaid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176905820115:android:3bcc6499f84c70808a0126",
+        "android_client_info": {
+          "package_name": "com.mit.fitbotai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbM0mG5GYkjEOWJBEYMaJiVdk6LW9lmaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
